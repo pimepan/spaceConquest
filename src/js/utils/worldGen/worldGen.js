@@ -1,4 +1,3 @@
-import { ValueNoise } from "value-noise-js";
 import weightedRandom from "../../utils/weightedRandom";
 import { createNoise2D } from "simplex-noise";
 import { createNoise3D } from "simplex-noise";
